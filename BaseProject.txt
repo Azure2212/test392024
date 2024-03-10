@@ -1,3 +1,7 @@
 Tuan dep trai nhat vu tru
 Tuan đã ở đây nè 
+<<<<<<< HEAD
 Yang ở đây nè
+=======
+ko có gi het
+>>>>>>> main
